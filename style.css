@@ -1,0 +1,37 @@
+body{
+	background-color: #191919;
+}
+
+#parent{
+	margin-top: 7em;
+}
+
+#sg-one{
+	width: 200px;
+	height: 200px;
+}
+
+#sg-two{
+	width: 200px;
+	height: 200px;
+}
+
+#action{
+	margin-top: 2em;
+	width: 300px;
+	height: 150px;
+	font-size: 3em;
+}
+
+#first,#second {
+	font-size: 7em;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+#out{
+	color: white;
+	margin-top: 2em;
+}
+
