@@ -1,4 +1,4 @@
-function ZarAt(){
+function Play(){
 	var f = document.getElementById("first");
 	var s = document.getElementById("second");
 	var one = Math.floor(Math.random()*6) +1;
